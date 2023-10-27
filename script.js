@@ -52,3 +52,5 @@ console.log(1 + 2 > 5 || 1 * 10 > 5); // true
 console.log("10" * 5); // 50
 
 console.log("ten" * 2); // NaN
+
+console.log(false == 1); // false
