@@ -54,3 +54,5 @@ console.log("10" * 5); // 50
 console.log("ten" * 2); // NaN
 
 console.log(false == 1); // false
+
+
